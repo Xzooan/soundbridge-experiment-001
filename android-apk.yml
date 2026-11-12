@@ -1,0 +1,18 @@
+# Sample YAML Configuration
+app:
+  name: YAML Viewer
+  version: 1.0.0
+  theme:
+    primary: red
+    secondary: white
+
+features:
+  - Syntax Highlighting
+  - File Import
+  - Live Editor
+  - Pretty Formatting
+
+settings:
+  autoSave: true
+  fontSize: 14
+  fontFamily: Kanit
